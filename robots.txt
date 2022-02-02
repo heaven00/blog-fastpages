@@ -1,1 +1,1 @@
-Sitemap: https://jayantp.blog/sitemap.xml
+Sitemap: http://jayantp.com/sitemap.xml
